@@ -1,0 +1,6 @@
+{
+  "name": "YOB 365",
+  "description": "A calendar-driven music player with 365 curated seasonal tracks, Spotify-inspired interface, JSON playlist import schema, and offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
