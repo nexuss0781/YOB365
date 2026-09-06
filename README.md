@@ -1,6 +1,6 @@
 # YOB 365
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 A calendar-driven Spotify-styled music player with 365 daily tracks categorized across Spring, Summer, Autumn, and Winter seasons.
 
